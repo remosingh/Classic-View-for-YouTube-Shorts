@@ -2,7 +2,7 @@
     "manifest_version":3,
     "name": "Classic View for YouTube Shorts",
     "description": "Watch YouTube Shorts in full screen view. Pin it to your tool bar for easy access.",
-    "version":"1.0",
+    "version":"1.1",
     "action":{
         "default_icon":"icon.png",
         "default_popup":"popup.html"
@@ -13,5 +13,5 @@
         "48": "icon.png",
         "128": "icon.png"
       },
-    "permissions": ["tabs","activeTab","tab","activeTab"]
+    "permissions": ["tabs","tab"]
 }
